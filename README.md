@@ -1,4 +1,6 @@
-## Hi there 👋
+# J Finn Teacher Page
+
+This is a collection of public repositories of projects I am working on as well as some resources for teachers and students of Computer Science in Ireland
 
 <!--
 **JFinnTeacher/JFinnTeacher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
